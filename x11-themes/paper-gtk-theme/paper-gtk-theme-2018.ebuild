@@ -18,7 +18,7 @@ else
 	SRC_URI=""
 	EGIT_REPO_URI="https://github.com/${MY_AUTHOR}/${PN}.git"
 	# EGIT_COMMIT="6a5f14cfe697b0a829456a1fd560acdcddc6043f"
-	EGIT_COMMIT="f75724fd76fd2e5681a367cca246a51f845320c3"
+	EGIT_COMMIT="770aba45a6441f9af4d02e04c0acc237533d341f"
 	KEYWORDS="~amd64 ~x86"
 fi
 

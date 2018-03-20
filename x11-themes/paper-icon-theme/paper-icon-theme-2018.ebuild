@@ -17,7 +17,7 @@ else
 	inherit git-r3
 	EGIT_REPO_URI="https://github.com/${MY_AUTHOR}/${PN}.git"
 	# EGIT_COMMIT="8a8822c11f6590974f12f74635c96d2ae739a978"
-	EGIT_COMMIT="ae82c98cc8c4248d940fdd27870f146c70cdf228"
+	EGIT_COMMIT="d2476a6274cd4a690d344de94984f481ca7783cc"
 	KEYWORDS="~amd64 ~arm ~x86"
 fi
 
